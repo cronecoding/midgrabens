@@ -1,10 +1,10 @@
-title: Inkwell Global Report
+title: Midgrabens International
 description: World events with data
-url: "https://inkwell.report"
+url: "https://midgrabens.com"
 baseurl: ""
 remote_theme: raviriley/agency-jekyll-theme
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 author: Inkwell
-author_url: https://inkwell.report
+author_url: https://midgrabens.com

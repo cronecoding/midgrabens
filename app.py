@@ -15,7 +15,7 @@ app.layout = html.Div(
     style={
         'backgroundColor': 'black',
         'color': 'white',
-        'fontFamily': 'Arial',
+        'fontFamily': "Georgia, 'Times New Roman', Times, serif",
         'padding': '20px'
     },
     children=[

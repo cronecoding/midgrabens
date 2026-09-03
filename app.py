@@ -19,7 +19,7 @@ app.layout = html.Div(
         'padding': '20px'
     },
     children=[
-        html.H1("Inkwell Global Report: Dataset Transparency Trends", style={'textAlign': 'center'}),
+        html.H1("Midgrabens International", style={'textAlign': 'center'}),
         html.Div(
             children=[
                 html.A(
@@ -146,7 +146,7 @@ app.layout = html.Div(
             children=[
             html.A(
                     "Contact Us",
-                    href="mailto:contact@inkwell.report",
+                    href="mailto:midgrabens@gmail.com",
                     style={
                         "color": "#8A9A5B",
                         "textDecoration": "underline",
